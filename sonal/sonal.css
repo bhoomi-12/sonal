@@ -1,0 +1,11 @@
+/* body {
+    border: 2px solid red;
+    background-image: url('C:\Users\surbh\OneDrive\Desktop\pexels-secret-garden-931177.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+} */
+div{
+    border: 2px solid red;
+    width: 400px;
+    height: 600px;
+}

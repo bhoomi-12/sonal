@@ -1,0 +1,123 @@
+/* Add your styles here */
+
+.logo {
+    margin-left: 750px;
+  }
+  
+  .nav {
+    list-style-type: none;
+    background-color: #02599c;
+  }
+  
+  .nav li {
+    display: inline-block;
+  }
+  
+  .box-2 {
+    background-color: rgb(40, 37, 37);
+    color: white;
+    display: inline-block;
+    height: 30px;
+    width: 190px;
+  }
+  .sider {
+    float: right;
+    margin-top: -210px;
+  }
+  
+  .siderName {
+    margin-top: -50px;
+    padding-left: 30px;
+  }
+  
+  .tabLogo {
+    font-size: 25px;
+  }
+  .list-4 {
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: -30px;
+    border: 1px solid #c9c9c9;
+    text-align: center;
+    height: 90px;
+    width: 300px;
+    cursor: pointer;
+    padding-top: 20px;
+    display: inline-block;
+  }
+  .list-4:hover {
+    background-color: #424141;
+    color: #f0b20b;
+  }
+  .WhatsNew {
+    border: 1px solid red;
+    height: 280px;
+    width: 600px;
+    color: #000;
+    display: inline-block;
+    margin-left: 100px;
+    background-color: white;
+    overflow: auto;
+  }
+  .newUl {
+    list-style-type: square;
+  } 
+  .newUl li{
+    font-size: 20px;
+  }
+  .office {
+    border: 1px solid red;
+    height: 280px;
+    width: 600px;
+    color: #000;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: white;
+  }
+  .session {
+    height: 340px;
+    width: 100%;
+    background-image: url(https://mod.gov.in/dod/sites/all/themes/dod/images/panel-bg.jpg);
+    /* background-image: url(C:\Users\surbh\OneDrive\Desktop\pexels-secret-garden-931177.jpg); */
+    background-size: 100% 390px;
+    background-repeat: no-repeat;
+    padding: 10px;
+  }
+  
+  .dropbtn {
+    background-color: #02599c;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f0b20b;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #f0b20b;
+  }
+  
